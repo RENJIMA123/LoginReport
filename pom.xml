@@ -23,6 +23,10 @@
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 		<java.version>8</java.version>
+		 <sonar.projectKey>RENJIMA123_LoginReport</sonar.projectKey>
+  <sonar.organization>renjima123</sonar.organization>
+  <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+		<sonar.login>feeb47b01054d0121194ca8702f8464039f8604a</sonar.login>
 	</properties>
 <dependencyManagement>
 		<dependencies>
